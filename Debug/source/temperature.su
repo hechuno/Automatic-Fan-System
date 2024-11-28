@@ -1,0 +1,14 @@
+C:\Users\Allo\Documents\MCUXpressoIDE_11.8.0_1165\workspace\TP3.3\BMP280+afficheur 7 segments (1).zip_expanded\BMP280+afficheur 7 segments\CMSIS/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+C:\Users\Allo\Documents\MCUXpressoIDE_11.8.0_1165\workspace\TP3.3\BMP280+afficheur 7 segments (1).zip_expanded\BMP280+afficheur 7 segments\CMSIS/core_cm0plus.h:1056:26:SysTick_Config	16	static
+../source/temperature.c:32:6:SysTick_Handler	8	static
+../source/temperature.c:39:6:SysTick_DelayTicks	16	static
+../source/temperature.c:67:5:main	8	static
+../source/temperature.c:94:8:i2c_reg_write	96	static
+../source/temperature.c:134:8:i2c_reg_read	88	static
+../source/temperature.c:171:8:spi_reg_write	24	static
+../source/temperature.c:178:8:spi_reg_read	24	static
+../source/temperature.c:186:6:print_rslt	16	static
+../source/temperature.c:215:6:initializeBMP	8	static
+../source/temperature.c:266:6:initializeLCD	32	static
+../source/temperature.c:298:6:initGPIO	8	static
+../source/temperature.c:309:6:resultBMP	80	static
